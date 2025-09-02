@@ -20,7 +20,6 @@
 
 ## 📌 Featured Projects  
 - 🔗 [OLX Clone](https://github.com/haliarutab24/olx-clone)  
-- 🔗 [Recipe Book App](https://github.com/haliarutab24/recipe-book-app)  
 - 🔗 [Portfolio Website](https://github.com/haliarutab24/portfolio)  
 
 ---
@@ -33,9 +32,10 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haliarutab24)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF7139.svg?logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haliarutab24@gmail.com)  
+
 
 ---
 ⭐️ From [Halia Rutab](https://github.com/haliarutab24)
