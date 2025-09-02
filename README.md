@@ -23,11 +23,11 @@
 - 🔗 [Portfolio Website](https://github.com/haliarutab24/portfolio)  
 
 ---
-
 ## 📊 GitHub Stats  
 ![Halia's GitHub stats](https://github-readme-stats.vercel.app/api?username=haliarutab24&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haliarutab24&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haliarutab24&layout=compact&theme=tokyonight&hide=c%2B%2B)  
+
 
 ---
 
