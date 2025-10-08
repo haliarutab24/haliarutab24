@@ -19,8 +19,11 @@
 ---
 
 ## 📌 Featured Projects  
-- 🔗 [OLX Clone](https://github.com/haliarutab24/olx-clone)  
-- 🔗 [Portfolio Website](https://github.com/haliarutab24/portfolio)  
+- 🔗 [E-Commerce Website](https://e-commerce-frontend-sandy-delta.vercel.app/)  
+- 🔗 [Portfolio Website](https://halia-rutab-portfolio.vercel.app/)
+- 🔗 [Point of Sales Dashboard Website](https://pos-frontend-eta-blue.vercel.app/)
+- 🔗 [ERP Dashboard Website](https://erp-frontend-fawn-five.vercel.app/)
+- 🔗 [Calls Log Dashboard Website](https://call-logs-frontend.vercel.app/)
 
 ---
 ## 📊 GitHub Stats  
