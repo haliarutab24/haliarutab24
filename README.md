@@ -24,6 +24,8 @@
 - 🔗 [Point of Sales Dashboard Website](https://pos-frontend-eta-blue.vercel.app/)
 - 🔗 [ERP Dashboard Website](https://erp-frontend-fawn-five.vercel.app/)
 - 🔗 [Calls Log Dashboard Website](https://call-logs-frontend.vercel.app/)
+- 🔗 [Campus Connect Website] (https://campus-connect-frontend-pearl.vercel.app/)
+- 🔗 [Consultancy Website ] (https://sk-consultants.vercel.app/)
 
 ---
 ## 📊 GitHub Stats  
