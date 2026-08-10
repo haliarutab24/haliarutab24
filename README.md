@@ -1,22 +1,4 @@
-Classy navy/cyan animated header
-Updated Software Engineer positioning
-Résumé-based achievements and experience
-Modern technology icons
-Six featured production projects
-Research publication spotlight
-Google AI certifications
-Responsive GitHub statistics
-Contribution graph and profile counter
-Portfolio, LinkedIn, and email buttons
 
-Upload it to the haliarutab24 profile repository as README.md. I used the Campus Connect link from your old README because the résumé’s campus-connect-pefl address appears to contain a typo.
-
-README.md
-Document
-
-Library
-/
-README.md
 
 <!-- GitHub Profile README for Halia Rutab Repository name must match your GitHub username: haliarutab24 -->
 
