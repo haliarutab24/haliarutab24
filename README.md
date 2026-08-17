@@ -25,55 +25,7 @@
 
 </div>
 
-## `whoami`
-
-### Hi, I'm **Halia Rutab** 👋
-
-**Software Engineer** focused on building scalable, responsive and production-ready web applications.
-
-I work across **SaaS, FinTech, real estate, healthcare, e-commerce and enterprise systems**, with a strong focus on polished interfaces, secure authentication, REST APIs and performance.
-
-```yaml
-role: Software Engineer
-specialization:
-  - Full-Stack Web Development
-  - Frontend Engineering
-  - REST APIs & Authentication
-  - Production UI & Performance
-
-currently:
-  - Junior Web Developer @ Tecnofuzion Technologies
-  - Web Development Trainer @ Career Institute
-
-education:
-  degree: Bachelor of Software Engineering
-  university: University of Management & Technology
-  completed: January 2026
-```
-
-</td>
-
-<td width="32%" align="center" valign="middle">
-
-<img src="./assets/halia-avatar.png" width="190" alt="Halia Rutab" />
-
-<br /><br />
-
-**Lahore, Pakistan**
-
-`Software Engineer`
-
-<br />
-
-<a href="https://github.com/haliarutab24">
-<img src="https://img.shields.io/badge/GitHub-haliarutab24-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
+## `Profile Summary`
 
 ## `impact`
 
