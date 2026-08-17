@@ -243,7 +243,7 @@ Teaching web development fundamentals and mentoring students through practical M
 </tr>
 
 <tr>
-<td><strong>May — Present</strong></td>
+<td><strong>Jul - Oct 2025</strong></td>
 <td>
 
 ### MERN Stack Developer · Afaq Technology
@@ -255,7 +255,7 @@ Developed modern frontend interfaces, integrated RESTful APIs, managed backend l
 </tr>
 
 <tr>
-<td><strong>Jul — Oct 2025</strong></td>
+<td><strong>Feb — May 2025</strong></td>
 <td>
 
 ### Frontend Web Developer· The Game Cloud Studios
@@ -264,7 +264,6 @@ During this role, I worked on building interactive, responsive, and visually eng
 
 </td>
 </tr>
-<td><strong>Feb — May 2025</strong></td>
 </table>
 
 ---
