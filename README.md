@@ -243,7 +243,7 @@ Teaching web development fundamentals and mentoring students through practical M
 </tr>
 
 <tr>
-<td><strong>May — Jun 2026</strong></td>
+<td><strong>May — Present</strong></td>
 <td>
 
 ### MERN Stack Developer · Afaq Technology
@@ -264,6 +264,7 @@ During this role, I worked on building interactive, responsive, and visually eng
 
 </td>
 </tr>
+<td><strong>Feb — May 2025</strong></td>
 </table>
 
 ---
