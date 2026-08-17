@@ -220,7 +220,7 @@ Built responsive healthcare interfaces supporting **patient engagement, health-d
 <td width="25%"><strong>Nov 2025 — Present</strong></td>
 <td>
 
-### Junior Web Developer · Tecnofuzion Technologies
+### Full Stack Web Developer · Tecnofuzion Technologies
 
 Next.js · React · SSR · REST APIs · Authentication
 
@@ -246,20 +246,21 @@ Teaching web development fundamentals and mentoring students through practical M
 <td><strong>May — Jun 2026</strong></td>
 <td>
 
-### Frontend Developer · Afaq Technology
+### MERN Stack Developer · Afaq Technology
 
-Built responsive MERN applications and collaborated with product teams in Agile workflows.
+Worked as a MERN Stack Developer at AFAQ Technologies, building responsive, scalable, and user-friendly web applications using MongoDB, Express.js, React.js, and Node.js.
+Developed modern frontend interfaces, integrated RESTful APIs, managed backend logic, and worked with databases to support full-stack application development. Gained hands-on experience in creating reusable React components, implementing authentication, handling CRUD operations, optimizing application performance, and writing clean, maintainable code.
 
 </td>
 </tr>
 
 <tr>
-<td><strong>Jan — May 2025</strong></td>
+<td><strong>Jul — Oct 2025</strong></td>
 <td>
 
-### React.js Developer Intern · The Game Cloud Studios
-
-Developed reusable React/Next.js components, integrated APIs and optimized frontend performance.
+### Frontend Web Developer· The Game Cloud Studios
+As a React.js Developer Intern at The Game Cloud Studios, I stepped into the world of modern frontend development, where creativity meets clean code.
+During this role, I worked on building interactive, responsive, and visually engaging web interfaces using React.js, JavaScript, HTML, and CSS. I focused on transforming UI ideas into smooth user experiences, creating reusable components, improving layouts, and enhancing the overall look and feel of web applications.
 
 </td>
 </tr>
