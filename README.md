@@ -1,42 +1,29 @@
-<!--
-  Halia Rutab • GitHub Profile README
-  Repository: github.com/haliarutab24/haliarutab24
-
-  This README intentionally avoids third-party stats-image services.
-  Visual assets are stored locally in ./assets so GitHub can render them
-  without depending on external README-card APIs.
--->
-
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Halia Rutab — Software Engineer" />
+<a href="https://github.com/haliarutab24">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:06B6D4&height=220&section=header&text=HALIA%20RUTAB&fontSize=52&fontColor=E5F6FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=BAE6FD" width="100%" alt="Halia Rutab header" />
+</a>
+
+<a href="https://github.com/haliarutab24">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+production-ready+web+applications.;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Secure+APIs+%7C+Authentication+%7C+Performance;Turning+product+ideas+into+clean+digital+experiences." alt="Typing introduction" />
+</a>
 
 <br />
 
-<a href="https://halia-rutab-portfolio.vercel.app/"><strong>PORTFOLIO</strong></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/haliarutab24/"><strong>LINKEDIN</strong></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:haliarutab24@gmail.com"><strong>EMAIL</strong></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/haliarutab24"><strong>GITHUB</strong></a>
-
-<br /><br />
-
-<code>REACT</code>
-&nbsp; <code>NEXT.JS</code>
-&nbsp; <code>NODE.JS</code>
-&nbsp; <code>MONGODB</code>
-&nbsp; <code>REST APIS</code>
-&nbsp; <code>JWT</code>
+<a href="https://halia-rutab-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/haliarutab24/">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+</a>
+<a href="mailto:haliarutab24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email" />
+</a>
+<a href="https://github.com/haliarutab24">
+  <img src="https://komarev.com/ghpvc/?username=haliarutab24&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile views" />
+</a>
 
 </div>
-
----
-
-<table>
-<tr>
-<td width="68%" valign="top">
 
 ## `whoami`
 
