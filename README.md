@@ -1,92 +1,141 @@
 <!--
-  GitHub Profile README
-  Halia Rutab • @haliarutab24
+  Halia Rutab • GitHub Profile README
+  Repository: github.com/haliarutab24/haliarutab24
+
+  This README intentionally avoids third-party stats-image services.
+  Visual assets are stored locally in ./assets so GitHub can render them
+  without depending on external README-card APIs.
 -->
 
 <div align="center">
 
-<a href="https://github.com/haliarutab24">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:06B6D4&height=220&section=header&text=HALIA%20RUTAB&fontSize=52&fontColor=E5F6FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=BAE6FD" width="100%" alt="Halia Rutab header" />
-</a>
-
-<a href="https://github.com/haliarutab24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+production-ready+web+applications.;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Secure+APIs+%7C+Authentication+%7C+Performance;Turning+product+ideas+into+clean+digital+experiences." alt="Typing introduction" />
-</a>
+<img src="./assets/banner.svg" width="100%" alt="Halia Rutab — Software Engineer" />
 
 <br />
 
-<a href="https://halia-rutab-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/haliarutab24/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
-</a>
-<a href="mailto:haliarutab24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email" />
-</a>
-<a href="https://github.com/haliarutab24">
-  <img src="https://komarev.com/ghpvc/?username=haliarutab24&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile views" />
-</a>
+<a href="https://halia-rutab-portfolio.vercel.app/"><strong>PORTFOLIO</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/haliarutab24/"><strong>LINKEDIN</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:haliarutab24@gmail.com"><strong>EMAIL</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/haliarutab24"><strong>GITHUB</strong></a>
+
+<br /><br />
+
+<code>REACT</code>
+&nbsp; <code>NEXT.JS</code>
+&nbsp; <code>NODE.JS</code>
+&nbsp; <code>MONGODB</code>
+&nbsp; <code>REST APIS</code>
+&nbsp; <code>JWT</code>
 
 </div>
 
 ---
 
-## `whoami`
-
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="68%" valign="top">
 
-### Software Engineer
+## `whoami`
 
-I’m **Halia Rutab**, a Software Engineer focused on building **scalable, responsive, production-ready web applications**.
+### Hi, I'm **Halia Rutab** 👋
 
-My work spans **SaaS, FinTech, real estate, healthcare, e-commerce, and enterprise systems**, with a particular interest in polished interfaces, secure authentication, API integration, and performance optimization.
+**Software Engineer** focused on building scalable, responsive and production-ready web applications.
+
+I work across **SaaS, FinTech, real estate, healthcare, e-commerce and enterprise systems**, with a strong focus on polished interfaces, secure authentication, REST APIs and performance.
 
 ```yaml
 role: Software Engineer
-focus:
+specialization:
   - Full-Stack Web Development
   - Frontend Engineering
   - REST APIs & Authentication
   - Production UI & Performance
+
 currently:
   - Junior Web Developer @ Tecnofuzion Technologies
   - Web Development Trainer @ Career Institute
+
 education:
   degree: Bachelor of Software Engineering
   university: University of Management & Technology
+  completed: January 2026
 ```
 
 </td>
-<td width="38%" align="center" valign="middle">
 
-<a href="https://github.com/haliarutab24">
-  <img src="https://github.com/haliarutab24.png?size=240" width="190" alt="Halia Rutab" />
-</a>
+<td width="32%" align="center" valign="middle">
+
+<img src="./assets/halia-avatar.png" width="190" alt="Halia Rutab" />
 
 <br /><br />
 
+**Lahore, Pakistan**
+
+`Software Engineer`
+
+<br />
+
 <a href="https://github.com/haliarutab24">
-  <img src="https://img.shields.io/badge/Open%20to-Building%20Great%20Things-06B6D4?style=flat-square" alt="Open to building great things" />
+<img src="https://img.shields.io/badge/GitHub-haliarutab24-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
 </td>
 </tr>
 </table>
 
+---
+
 ## `impact`
 
 <div align="center">
 
-| **500+** | **30%** | **6+** | **2** |
-|:---:|:---:|:---:|:---:|
-| Active users supported | Page-load improvement | Production projects | Google AI credentials |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 500+
+
+**ACTIVE USERS**
+
+AI-powered campus platform
+
+</td>
+<td align="center" width="25%">
+
+### 30%
+
+**PERFORMANCE GAIN**
+
+Page-load improvement
+
+</td>
+<td align="center" width="25%">
+
+### 6
+
+**FEATURED PRODUCTS**
+
+Across multiple industries
+
+</td>
+<td align="center" width="25%">
+
+### 2
+
+**GOOGLE AI CREDENTIALS**
+
+Professional + Essentials
+
+</td>
+</tr>
+</table>
 
 </div>
 
-> **Engineering mindset:** clean interfaces, reliable APIs, secure flows, measurable performance.
+> **Engineering mindset:** build clean interfaces, reliable APIs, secure flows and measurable user experiences.
 
 ---
 
@@ -96,24 +145,26 @@ education:
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap&perline=7" alt="Frontend technologies" />
+`React.js` · `Next.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap` · `Responsive Design`
 
 ### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=6" alt="Backend and database technologies" />
+`Node.js` · `Express.js` · `RESTful APIs` · `JWT Authentication` · `MongoDB` · `Firebase / Firestore`
 
-### Tools & Workflow
+### Engineering & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&perline=6" alt="Development tools" />
+`Git` · `GitHub` · `Vercel` · `Postman` · `ESLint` · `MVC Architecture` · `State Management` · `Performance Optimization`
 
 ### AI-Assisted Development
 
-<img src="https://skillicons.dev/icons?i=githubcopilot&perline=4" alt="AI-assisted development" />
+`ChatGPT` · `Gemini` · `Grok` · `GitHub Copilot` · AI-assisted debugging · code optimization
+
+</div>
 
 <br />
 
-`REST APIs` · `JWT Authentication` · `Authorization` · `State Management` · `MVC` · `Responsive Design` · `Performance Optimization` · `Agile/Scrum`
-
+<div align="center">
+<img src="./assets/technology-focus.svg" width="88%" alt="Halia Rutab technology focus" />
 </div>
 
 ---
@@ -125,29 +176,32 @@ education:
 <td width="50%" valign="top">
 
 ### 🎓 Campus Connect
-**AI-Powered Web Application**
+**AI-Powered Campus Opportunity Platform**
 
-An AI-powered campus opportunity platform connecting students with **part-time jobs and startup collaborations** through role-based dashboards.
+Built an AI-powered platform helping students discover **part-time jobs and startup collaborations** through secure, role-based dashboards.
 
 **Stack:** Next.js · Node.js · MongoDB · JWT
 
-<a href="https://campus-connect-pefl.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Campus Connect" />
-</a>
+**Impact:** `500+ active users`
+
+<br />
+
+<a href="https://campus-connect-pefl.vercel.app/"><strong>↗ VIEW PROJECT</strong></a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🏢 PropStake UAE
 **Digital Real Estate Investment**
 
-Responsive investor experience for exploring **tokenized property assets**, portfolio tracking, and real-time investment insights.
+Responsive investor experience for exploring **tokenized property assets**, portfolio tracking and real-time investment insights.
 
 **Stack:** React · Next.js · Responsive UI
 
-<a href="https://propstake.ai/">
-<img src="https://img.shields.io/badge/LIVE%20PRODUCT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit PropStake" />
-</a>
+<br />
+
+<a href="https://propstake.ai/"><strong>↗ LIVE PRODUCT</strong></a>
 
 </td>
 </tr>
@@ -158,27 +212,28 @@ Responsive investor experience for exploring **tokenized property assets**, port
 ### 💳 FuzionPay
 **Digital Payment & Settlement Infrastructure**
 
-Frontend contribution to a FinTech platform supporting **fiat and cryptocurrency wallets**, balances, transactions, and REST API integrations.
+Contributed to a FinTech platform supporting **fiat and cryptocurrency wallets**, balances, transactions and REST API integrations.
 
 **Stack:** Next.js · REST APIs · FinTech
 
-<a href="https://fuzionpay-user-portal.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="View FuzionPay" />
-</a>
+<br />
+
+<a href="https://fuzionpay-user-portal.vercel.app/"><strong>↗ VIEW PROJECT</strong></a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🏭 Enterprise ERP
 **Integrated Business Management System**
 
-Modular ERP platform integrating **Finance, Inventory, Sales/CRM, Procurement, HRM, Manufacturing, and Project Management**.
+Modular ERP integrating **Finance, Inventory, Sales/CRM, Procurement, HRM, Manufacturing and Project Management**.
 
 **Stack:** MERN · Modular Architecture
 
-<a href="https://erp-integration-rho.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Enterprise ERP" />
-</a>
+<br />
+
+<a href="https://erp-integration-rho.vercel.app/"><strong>↗ VIEW PROJECT</strong></a>
 
 </td>
 </tr>
@@ -189,27 +244,28 @@ Modular ERP platform integrating **Finance, Inventory, Sales/CRM, Procurement, H
 ### 🛒 VIAB Market
 **Responsive E-Commerce Marketplace**
 
-Frontend development for a modern marketplace focused on **product discovery, search, filtering, and interactive customer experiences**.
+Developed and maintained frontend experiences for product discovery, **search, filtering and interactive customer journeys**.
 
 **Stack:** Modern Web · E-Commerce · UI/UX
 
-<a href="https://www.viabmarket.com/">
-<img src="https://img.shields.io/badge/LIVE%20PRODUCT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit VIAB Market" />
-</a>
+<br />
+
+<a href="https://www.viabmarket.com/"><strong>↗ LIVE PRODUCT</strong></a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🏥 HealthStake
 **Digital Healthcare Platform**
 
-Responsive healthcare interfaces supporting **patient engagement, health-data management, and coordinated nursing workflows**.
+Built responsive healthcare interfaces supporting **patient engagement, health-data management and nursing workflows**.
 
 **Stack:** React · Healthcare · Responsive UI
 
-<a href="https://www.healthstake.io/">
-<img src="https://img.shields.io/badge/LIVE%20PRODUCT-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit HealthStake" />
-</a>
+<br />
+
+<a href="https://www.healthstake.io/"><strong>↗ LIVE PRODUCT</strong></a>
 
 </td>
 </tr>
@@ -219,36 +275,86 @@ Responsive healthcare interfaces supporting **patient engagement, health-data ma
 
 ## `experience`
 
-```text
-NOV 2025 — PRESENT     Junior Web Developer      Tecnofuzion Technologies
-                       Next.js · React · SSR · REST APIs · Authentication
-                       Improved page-load speed & UX by 30%
+<table>
+<tr>
+<td width="25%"><strong>Nov 2025 — Present</strong></td>
+<td>
 
-MAY 2026 — PRESENT     Web Development Trainer   Career Institute
-                       HTML · CSS · JavaScript · React
-                       Node.js · Express · MongoDB · MERN mentorship
+### Junior Web Developer · Tecnofuzion Technologies
 
-MAY — JUN 2026         AI Engineer                Grade Blusher
+Next.js · React · SSR · REST APIs · Authentication
 
-JUL — OCT 2025         Frontend Developer         Afaq Technology
-                       MERN applications · Agile collaboration
+Built high-performance SSR applications and improved page-load speed and overall UX by **30%**.
 
-JAN — MAY 2025         React.js Developer Intern  The Game Cloud Studios
-                       React · Next.js · APIs · Reusable UI · Optimization
-```
+</td>
+</tr>
+
+<tr>
+<td><strong>May 2026 — Present</strong></td>
+<td>
+
+### Web Development Trainer · Career Institute
+
+HTML · CSS · JavaScript · React · Node.js · Express · MongoDB
+
+Teaching web development fundamentals and mentoring students through practical MERN projects.
+
+</td>
+</tr>
+
+<tr>
+<td><strong>May — Jun 2026</strong></td>
+<td>
+
+### AI Engineer · Grade Blusher
+
+Contributed to AI-enabled product development.
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Jul — Oct 2025</strong></td>
+<td>
+
+### Frontend Developer · Afaq Technology
+
+Built responsive MERN applications and collaborated with product teams in Agile workflows.
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Jan — May 2025</strong></td>
+<td>
+
+### React.js Developer Intern · The Game Cloud Studios
+
+Developed reusable React/Next.js components, integrated APIs and optimized frontend performance.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## `research`
 
+<div align="center">
+
 ### How Generative AI Influences Developer Behavior, Cognitive Abilities, and Critical Thinking: An Empirical Study
+
+</div>
 
 **Contributing Author · February 2026 — July 2026**
 
-An empirical software-engineering study investigating how **Generative AI influences software developers’ behavior, cognitive abilities, and critical-thinking skills**.
+An empirical software-engineering study investigating how **Generative AI influences software developers' behavior, cognitive abilities and critical-thinking skills**.
 
-**Journal:** *Information and Software Technology (Elsevier)*  
-**Manuscript:** `INFSOF-D-26-01574`
+| | |
+|---|---|
+| **Journal** | *Information and Software Technology (Elsevier)* |
+| **Manuscript** | `INFSOF-D-26-01574` |
+| **Research Area** | Generative AI × Software Engineering × Human Cognition |
 
 ---
 
@@ -256,13 +362,21 @@ An empirical software-engineering study investigating how **Generative AI influe
 
 <div align="center">
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/KLY5AOG8S7H6">
-<img src="https://img.shields.io/badge/Google%20AI-Professional%20Certificate-0B1220?style=for-the-badge&logo=google&logoColor=22D3EE" alt="Google AI Professional Certificate" />
-</a>
+### Google AI Professional Certificate
+**May 2026**
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/QK1AN6EDRAXZ">
-<img src="https://img.shields.io/badge/Google%20AI-Essentials%20Specialization-0B1220?style=for-the-badge&logo=google&logoColor=38BDF8" alt="Google AI Essentials Specialization" />
-</a>
+AI Fundamentals · Research & Insights · Writing & Communication · Content Creation · Data Analysis · App Building
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/KLY5AOG8S7H6"><strong>↗ VIEW CERTIFICATE</strong></a>
+
+<br /><br />
+
+### Google AI Essentials Specialization
+**May 2026**
+
+Introduction to AI · Productivity with AI Tools · Prompting · Responsible AI
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/QK1AN6EDRAXZ"><strong>↗ VIEW CERTIFICATE</strong></a>
 
 </div>
 
@@ -272,29 +386,36 @@ An empirical software-engineering study investigating how **Generative AI influe
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=haliarutab24&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B1220&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1" alt="Halia's GitHub statistics" />
+<img src="./assets/github-snapshot.svg" width="92%" alt="GitHub profile snapshot" />
 
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=haliarutab24&hide_border=true&background=0B1220&stroke=1E293B&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Halia's GitHub contribution streak" />
+<br /><br />
+
+### Profile activity
+
+Your **native GitHub contribution graph** remains the live source of contribution activity directly below this profile README.
 
 <br />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliarutab24&layout=compact&hide_border=true&langs_count=8&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1" alt="Halia's most-used GitHub languages" />
+<a href="https://github.com/haliarutab24?tab=repositories"><strong>VIEW ALL REPOSITORIES ↗</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/haliarutab24?tab=stars"><strong>VIEW STARS ↗</strong></a>
 
 </div>
+
+> **Why no external stats cards?**  
+> This profile intentionally uses local SVG assets instead of `github-readme-stats` / Heroku-style README-card services. That means the visual section does not disappear because a third-party server decided to take the afternoon off.
 
 ---
 
 ## `beyond.code`
 
-I enjoy building software that is **useful, accessible, and thoughtfully designed**. I’m especially interested in the intersection of strong frontend experiences, reliable backend systems, and AI-assisted development.
+I enjoy building software that is **useful, accessible and thoughtfully designed**. I’m especially interested in the intersection of strong frontend experiences, reliable backend systems and AI-assisted development.
 
 <div align="center">
 
 ### `BUILD • SHIP • LEARN • REPEAT`
 
-<a href="https://halia-rutab-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Halia's portfolio" />
-</a>
+<a href="https://halia-rutab-portfolio.vercel.app/"><strong>EXPLORE MY PORTFOLIO ↗</strong></a>
 
 </div>
 
@@ -302,8 +423,10 @@ I enjoy building software that is **useful, accessible, and thoughtfully designe
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:111827,100:0B1220&height=100&section=footer" width="100%" alt="Footer" />
+### Code with purpose. Design with empathy. Learn without limits.
 
-<sub>© Halia Rutab · Built with code, curiosity, and an unreasonable number of commits.</sub>
+<br />
+
+<sub>© Halia Rutab · Software Engineer · Lahore, Pakistan</sub>
 
 </div>
