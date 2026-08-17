@@ -26,9 +26,6 @@
 </div>
 
 ## `Profile Summary`
--
-
-## `Profile Summary`
 
 <table>
 <tr>
