@@ -68,55 +68,17 @@ education:
 </td>
 </tr>
 </table>
-
 ## `impact`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 500+
-
-**ACTIVE USERS**
-
-AI-powered campus platform
-
-</td>
-<td align="center" width="25%">
-
-### 30%
-
-**PERFORMANCE GAIN**
-
-Page-load improvement
-
-</td>
-<td align="center" width="25%">
-
-### 6
-
-**FEATURED PRODUCTS**
-
-Across multiple industries
-
-</td>
-<td align="center" width="25%">
-
-### 2
-
-**GOOGLE AI CREDENTIALS**
-
-Professional + Essentials
-
-</td>
-</tr>
-</table>
+| **500+** | **30%** | **6+** | **2** |
+|:---:|:---:|:---:|:---:|
+| Active users supported | Page-load improvement | Production projects | Google AI credentials |
 
 </div>
 
-> **Engineering mindset:** build clean interfaces, reliable APIs, secure flows and measurable user experiences.
+> **Engineering mindset:** clean interfaces, reliable APIs, secure flows, measurable performance.
 
 ---
 
@@ -126,29 +88,25 @@ Professional + Essentials
 
 ### Frontend
 
-`React.js` · `Next.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap` · `Responsive Design`
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap&perline=7" alt="Frontend technologies" />
 
 ### Backend & Data
 
-`Node.js` · `Express.js` · `RESTful APIs` · `JWT Authentication` · `MongoDB` · `Firebase / Firestore`
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=6" alt="Backend and database technologies" />
 
-### Engineering & Tools
+### Tools & Workflow
 
-`Git` · `GitHub` · `Vercel` · `Postman` · `ESLint` · `MVC Architecture` · `State Management` · `Performance Optimization`
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&perline=6" alt="Development tools" />
 
 ### AI-Assisted Development
 
-`ChatGPT` · `Gemini` · `Grok` · `GitHub Copilot` · AI-assisted debugging · code optimization
-
-</div>
+<img src="https://skillicons.dev/icons?i=githubcopilot&perline=4" alt="AI-assisted development" />
 
 <br />
 
-<div align="center">
-<img src="./assets/technology-focus.svg" width="88%" alt="Halia Rutab technology focus" />
-</div>
+`REST APIs` · `JWT Authentication` · `Authorization` · `State Management` · `MVC` · `Responsive Design` · `Performance Optimization` · `Agile/Scrum`
 
----
+</div>
 
 ## `featured.work`
 
