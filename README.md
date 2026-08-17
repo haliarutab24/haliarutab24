@@ -69,7 +69,7 @@ education:
 </tr>
 </table>
 
-## `impact`
+## `Impact`
 
 <div align="center">
 
@@ -83,7 +83,7 @@ education:
 
 ---
 
-## `stack`
+## `Stack`
 
 <div align="center">
 
@@ -109,7 +109,7 @@ education:
 
 </div>
 
-## `featured.work`
+## `Featured Work`
 
 <table>
 <tr>
@@ -213,7 +213,7 @@ Built responsive healthcare interfaces supporting **patient engagement, health-d
 
 ---
 
-## `experience`
+## `Experience`
 
 <table>
 <tr>
@@ -278,7 +278,7 @@ Developed reusable React/Next.js components, integrated APIs and optimized front
 
 ---
 
-## `research`
+## `Research`
 
 <div align="center">
 
@@ -298,7 +298,7 @@ An empirical software-engineering study investigating how **Generative AI influe
 
 ---
 
-## `certifications`
+## `Certifications`
 
 <div align="center">
 
@@ -322,7 +322,7 @@ Introduction to AI · Productivity with AI Tools · Prompting · Responsible AI
 
 ---
 
-## `github.analytics`
+## `Github Analytics`
 
 <div align="center">
 
@@ -330,7 +330,7 @@ Introduction to AI · Productivity with AI Tools · Prompting · Responsible AI
 
 <br /><br />
 
-### Profile activity
+### Profile Activity
 
 Your **native GitHub contribution graph** remains the live source of contribution activity directly below this profile README.
 
@@ -347,7 +347,7 @@ Your **native GitHub contribution graph** remains the live source of contributio
 
 ---
 
-## `beyond.code`
+## `Beyond Code`
 
 I enjoy building software that is **useful, accessible and thoughtfully designed**. I’m especially interested in the intersection of strong frontend experiences, reliable backend systems and AI-assisted development.
 
