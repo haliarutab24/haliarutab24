@@ -246,17 +246,6 @@ Teaching web development fundamentals and mentoring students through practical M
 <td><strong>May — Jun 2026</strong></td>
 <td>
 
-### AI Engineer · Grade Blusher
-
-Contributed to AI-enabled product development.
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Jul — Oct 2025</strong></td>
-<td>
-
 ### Frontend Developer · Afaq Technology
 
 Built responsive MERN applications and collaborated with product teams in Agile workflows.
