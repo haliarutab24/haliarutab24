@@ -26,6 +26,51 @@
 </div>
 
 ## `Profile Summary`
+-
+
+## `Profile Summary`
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### Software Engineer
+
+I’m **Halia Rutab**, a Software Engineer focused on building **scalable, responsive, production-ready web applications**.
+
+My work spans **SaaS, FinTech, real estate, healthcare, e-commerce, and enterprise systems**, with a particular interest in polished interfaces, secure authentication, API integration, and performance optimization.
+
+```yaml
+role: Software Engineer
+focus:
+  - Full-Stack Web Development
+  - Frontend Engineering
+  - REST APIs & Authentication
+  - Production UI & Performance
+currently:
+  - Junior Web Developer @ Tecnofuzion Technologies
+  - Web Development Trainer @ Career Institute
+education:
+  degree: Bachelor of Software Engineering
+  university: University of Management & Technology
+```
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<a href="https://github.com/haliarutab24">
+  <img src="https://github.com/haliarutab24.png?size=240" width="190" alt="Halia Rutab" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/haliarutab24">
+  <img src="https://img.shields.io/badge/Open%20to-Building%20Great%20Things-06B6D4?style=flat-square" alt="Open to building great things" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ## `impact`
 
